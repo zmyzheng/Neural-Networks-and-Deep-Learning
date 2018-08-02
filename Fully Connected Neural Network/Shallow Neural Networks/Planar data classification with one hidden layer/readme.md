@@ -1,7 +1,9 @@
 ## Planar data classification with a hidden layer
 
 
-Course 1 , Week 3  Coursera by Andrew Wg
+Course 1 , Week 3  Coursera
+
+Instructor: Andrew Wg
 
 [website](https://www.deeplearning.ai/)
 

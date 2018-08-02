@@ -1,7 +1,9 @@
 ## Building your Deep Neural Network: Step by Step
 
 
-Course 1 , Week 4  Coursera by Andrew Wg
+Course 1 , Week 4  Coursera 
+
+Instructor: Andrew Wg
 
 [website](https://www.deeplearning.ai/)
 

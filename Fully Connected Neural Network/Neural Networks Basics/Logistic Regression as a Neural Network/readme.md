@@ -1,7 +1,9 @@
 ## Logistic Regression with a Neural Network mindset to identify cat photos.
 
 
-Course 1 , Week 2  Coursera by Andrew Wg
+Course 1 , Week 2  Coursera 
+
+Instructor: Andrew Wg
 
 [website](https://www.deeplearning.ai/)
 

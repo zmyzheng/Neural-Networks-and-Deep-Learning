@@ -1,7 +1,9 @@
 ## Deep Neural Network - Application
 
 
-Course 1 , Week 4  Coursera by Andrew Wg
+Course 1 , Week 4  Coursera 
+
+Instructor: Andrew Wg
 
 [website](https://www.deeplearning.ai/)
 
