@@ -24,3 +24,6 @@ By completing this assignment you will:
 
 This assignment prepares you well for the upcoming assignment.
 
+
+
+注意shuffle的运用
