@@ -1,0 +1,1 @@
+这个的backforward有问题，正确的看Dinosaur Island - Character-Level Language Modeling中utils.py的写法
