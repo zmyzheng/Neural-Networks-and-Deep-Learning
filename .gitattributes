@@ -1,1 +1,2 @@
 Convolutional[[:space:]]Neural[[:space:]]Networks/Deep[[:space:]]convolutional[[:space:]]models[[:space:]]-[[:space:]]case[[:space:]]studies/Residual[[:space:]]Networks/ResNet50.h5 filter=lfs diff=lfs merge=lfs -text
+Convolutional[[:space:]]Neural[[:space:]]Networks/Object[[:space:]]detection/Car[[:space:]]detection[[:space:]]for[[:space:]]Autonomous[[:space:]]Driving/model_data/yolo.h5 filter=lfs diff=lfs merge=lfs -text
