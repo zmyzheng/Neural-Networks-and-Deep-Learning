@@ -27,15 +27,18 @@ There are 4 parts in this repository:
   
 - Part 3: Convolutional Neural Networks
 
-  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
-  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
-  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
-  - [Week 2 - PA 2 - Residual Networks](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb)
+  - [1 - Convolutional Model: step by step](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Foundations%20of%20Convolutional%20Neural%20Networks/Convolutional%20Model%20-%20step%20by%20step/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [2 - Convolutional Model: application](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Foundations%20of%20Convolutional%20Neural%20Networks/Convolutional%20Model%20-%20application/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+  - [3 - Keras - Tutorial - Happy House](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Deep%20convolutional%20models%20-%20case%20studies/Keras%20Tutorial%20-%20The%20Happy%20House/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+  - [4 - Residual Networks](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Deep%20convolutional%20models%20-%20case%20studies/Residual%20Networks/Residual%20Networks%20-%20v2.ipynb)
+  - [5 - Object detection - Car detection for Autonomous Driving](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Object%20detection/Car%20detection%20for%20Autonomous%20Driving/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+  - [6 - Art generation with Neural Style Transfer](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer/Art%20generation%20with%20Neural%20Style%20Transfer/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv3.ipynb)
+  - [7 - Face Recognition for the Happy House](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer/Face%20Recognition%20for%20the%20Happy%20House/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+ 
   
 - Part 4: Sequence Models
 
   - [1 - Building a Recurrent Neural Network - Step by Step](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Sequence%20Models/Recurrent%20Neural%20Networks%20%26%20Language%20Model/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.ipynb)
-  
   - [2 - Character level language model - Dinosaurus land](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Sequence%20Models/Recurrent%20Neural%20Networks%20%26%20Language%20Model/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
   - [3 - Jazz improvisation with LSTM](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Sequence%20Models/Recurrent%20Neural%20Networks%20%26%20Language%20Model/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)
   - [4 - Word Embeddings - Operations on word vectors and Debiasing](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Sequence%20Models/Natural%20Language%20Processing%20%26%20Word%20Embeddings/Operations%20on%20word%20vectors%20-%20Debiasing/Operations%20on%20word%20vectors%20-%20v2.ipynb)
