@@ -14,7 +14,7 @@ There are 4 parts in this repository:
 
   - [1 - Logistic Regression with a Neural Network](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Fully%20Connected%20Neural%20Network/Neural%20Networks%20Basics/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
   - [2 - Planar data classification with one hidden layer](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Fully%20Connected%20Neural%20Network/Shallow%20Neural%20Networks/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
-  - [3 - Building your Deep Neural Network: Step by Step¶](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Fully%20Connected%20Neural%20Network/Deep%20Neural%20Networks/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8.ipynb)
+  - [3 - Building your Deep Neural Network: Step by Step](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Fully%20Connected%20Neural%20Network/Deep%20Neural%20Networks/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8.ipynb)
   - [4 - Deep Neural Network for Image Classification: Application](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Fully%20Connected%20Neural%20Network/Deep%20Neural%20Networks/Deep%20Neural%20Network%20Application%20-%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
 - Part 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -57,6 +57,10 @@ There are 4 parts in this repository:
 
 ### Face Recognition for the Happy House - Inception Model
 ![](demo/distance_kiank.png)
+
+### Residual Networks
+![](demo/convblock_kiank.png)
+![](demo/resnet_kiank.png)
 
 ### Jazz improvisation with LSTM
 ![](demo/LSTM_rnn.png)
