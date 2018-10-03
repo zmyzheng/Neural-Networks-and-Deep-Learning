@@ -62,7 +62,7 @@ There are 4 parts in this repository:
 ![](demo/convblock_kiank.png)
 ![](demo/resnet_kiank.png)
 
-### [Jazz improvisation with LSTM]https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Sequence%20Models/Recurrent%20Neural%20Networks%20%26%20Language%20Model/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)
+### [Jazz improvisation with LSTM](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Sequence%20Models/Recurrent%20Neural%20Networks%20%26%20Language%20Model/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)
 ![](demo/LSTM_rnn.png)
 ![](demo/music_gen.png)
 
