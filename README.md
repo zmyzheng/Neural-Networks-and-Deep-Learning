@@ -51,7 +51,7 @@ There are 4 parts in this repository:
 ### Car detection for Autonomous Driving - YOLO
 ![](demo/box_label.png)
 
-### Art generation with Neural Style Transfer
+### [Art generation with Neural Style Transfer](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer/Art%20generation%20with%20Neural%20Style%20Transfer/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv3.ipynb)
 ![](demo/louvre_generated.png)
 ![](demo/content_plus_style.png)
 
