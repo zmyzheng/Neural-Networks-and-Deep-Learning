@@ -31,9 +31,9 @@ There are 4 parts in this repository:
   - [2 - Convolutional Model: application](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Foundations%20of%20Convolutional%20Neural%20Networks/Convolutional%20Model%20-%20application/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
   - [3 - Keras - Tutorial - Happy House](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Deep%20convolutional%20models%20-%20case%20studies/Keras%20Tutorial%20-%20The%20Happy%20House/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
   - [4 - Residual Networks](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Deep%20convolutional%20models%20-%20case%20studies/Residual%20Networks/Residual%20Networks%20-%20v2.ipynb)
-  - [5 - Object detection - Car detection for Autonomous Driving](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Object%20detection/Car%20detection%20for%20Autonomous%20Driving/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+  - [5 - Object detection - Car detection for Autonomous Driving - YOLO](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Object%20detection/Car%20detection%20for%20Autonomous%20Driving/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
   - [6 - Art generation with Neural Style Transfer](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer/Art%20generation%20with%20Neural%20Style%20Transfer/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv3.ipynb)
-  - [7 - Face Recognition for the Happy House](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer/Face%20Recognition%20for%20the%20Happy%20House/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+  - [7 - Face Recognition for the Happy House - Inception Model](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Convolutional%20Neural%20Networks/Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer/Face%20Recognition%20for%20the%20Happy%20House/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
  
   
 - Part 4: Sequence Models
@@ -46,11 +46,32 @@ There are 4 parts in this repository:
   - [6 - Neural Machine Translation with Attention](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Sequence%20Models/Sequence%20models%20%26%20Attention%20mechanism/Neural%20Machine%20Translation%20with%20Attention/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
   - [7 - Speech Recognition Application - Trigger word detection](https://github.com/zmyzheng/Neural-Networks-and-Deep-Learning/blob/master/Sequence%20Models/Sequence%20models%20%26%20Attention%20mechanism/Speech%20Recognition%20Application%20-%20Trigger%20word%20detection/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
   
-## 
+## Featured Projects
 
+### Car detection for Autonomous Driving - YOLO
+![](demo/box_label.png)
 
+### Art generation with Neural Style Transfer
+![](demo/louvre_generated.png)
+![](demo/content_plus_style.png)
 
+### Face Recognition for the Happy House - Inception Model
+![](demo/distance_kiank.png)
 
+### Jazz improvisation with LSTM
+![](demo/LSTM_rnn.png)
+![](demo/music_gen.png)
+
+### Natural Language Processing - Emojify
+![](demo/emojifier-v2.png)
+
+### Neural Machine Translation with Attention
+![](demo/attn_model.png)
+![](demo/attn_mechanism.png)
+
+### Speech Recognition Application - Trigger word detection
+![](demo/label_diagram.png)
+![](demo/model.png)
 
 
 
